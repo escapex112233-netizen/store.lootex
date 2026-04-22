@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏆 - LootexMc
 
 > LootexMc is a website template created by a group of friends during the High Performance Codes course in college as a project. The goal was to create a responsive website for Minecraft servers with login without backend, without the use of frameworks, with a focus on speed and code cleanliness.
@@ -71,3 +72,6 @@ console.log(userCokkie);
 
 > Done with ♥️ by owner and team.
 # StoreLootexMc
+=======
+# store.lootex
+>>>>>>> 3b47aa9ecc78b0cf66f09b425ac7271509e2fc16
